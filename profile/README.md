@@ -1,5 +1,5 @@
 # CastleMiner Modding
-Hello! First of all, you can join the CastleMiner Discord server by clicking [here!](https://discord.gg/cJH7DFb) We have over 1600 members and actively engage with our community to maintain the presence of [DigitalDNA's](https://www.digitaldnagames.com) games. These games include:
+Hello! First of all, you can join the CastleMiner Discord server by clicking [here!](https://discord.gg/cJH7DFb) We have over 1900 members and actively engage with our community to maintain the presence of [DigitalDNA's](https://www.digitaldnagames.com) games. These games include:
 - CastleMiner Z (CMZ)
 - CastleMiner (CM)
 - CastlerMiner Warfare (CMW)
